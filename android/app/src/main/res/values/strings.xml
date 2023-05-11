@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Bursa Taxi</string>
+
+    <string name="no">No</string>
+    <string name="give">Give</string>
+    <string name="ok">OK</string>
+
+    <string name="welcome_text">Hello there, welcome!</string>
+    <string name="phone_number">phone number</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="hello_text">Hello,</string>
+
+    <string name="sms_verification">Sms Verification</string>
+    <string name="sms_code">sms code</string>
+    <string name="verify_sms_code">Verify Sms Code</string>
+
+    <string name="finally_text">Finally</string>
+    <string name="your_full_name">your full name</string>
+    <string name="complete_signing">Complete Signing</string>
+
+    <string name="destination_text">Where\'d you want to go?</string>
+    <string name="call_taxi">Call a Taxi</string>
+
+    <string name="cd_taxi">Taxi Image</string>
+    <string name="cd_welcome_character">Welcome Character Image</string>
+    <string name="cd_update_location">Update location button</string>
+    <string name="cd_show_stations">Show stations button</string>
+    <string name="cd_settings_menu">Settings menu button</string>
+    <string name="cd_nav_back">Navigation Back Button</string>
+    <string name="cd_main_map_view">Main map view</string>
+    <string name="cd_line">Line</string>
+
+    <string name="text_account_settings">Account Settings</string>
+    <string name="text_options">Options</string>
+    <string name="text_settings">Settings</string>
+    <string name="text_your_account">Your Account</string>
+    <string name="text_destination">Destination</string>
+    <string name="text_taxi_station">Taxi Station</string>
+    <string name="text_your_location">Your location</string>
+    <string name="text_location_permission">Location Permission</string>
+    <string name="text_location_permission_rationale">You have to give location permission in order to use the applicaton</string>
+    <string name="text_login_successfull">You are successfully logged in</string>
+    <string name="text_taxi_call_successfull">You are successfully called a taxi</string>
+
+    <string name="error_general">An error occurred</string>
+    <string name="error_general_2">Something went wrong, please try again</string>
+    <string name="error_signup">There was a problem with your signup</string>
+    <string name="error_sms_code_is_wrong">Sms code is wrong</string>
+    <string name="error_taxi_stations">There was a problem with taxi stations</string>
+    <string name="error_location">Location data cannot be received. Please open location services</string>
+    <string name="error_invalid_request">Invalid Request</string>
+    <string name="error_too_many_attempts">Too Many Attempts</string>
+    <string name="error_no_destination">No destination selected</string>
+    <string name="error_place_info">Could not get place info</string>
+    <string name="error_taxi_call">Could not make taxi call</string>
+    <string name="error_search_no_result">No search result found. Please try again</string>
+
+    <string name="warning_phone_number">Please enter a proper phone number</string>
+    <string name="warning_blank_spaces">Please fill the blank spaces</string>
+    <string name="warning_enter_sms_code">Please enter a sms code</string>
+    <string name="warning_enter_name">Please enter a name</string>
+    <string name="warning_select_place">You have to select a destination</string>
+    <string name="warning_access_fine_location_permission">You have to give \'access fine location permission\' to use the app</string>
+</resources>

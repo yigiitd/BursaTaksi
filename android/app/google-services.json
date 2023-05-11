@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "248987402333",
+    "firebase_url": "https://bursa-taksi-development-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bursa-taksi-development",
+    "storage_bucket": "bursa-taksi-development.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248987402333:android:367567004bfe21154ccdb4",
+        "android_client_info": {
+          "package_name": "com.bursa.taksi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248987402333-ktb5hq4a8cmutn2o6hckgqm428qbk3h6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bursa.taksi",
+            "certificate_hash": "873af173df7cfbe00f56fd9d612c7c32c30aeac5"
+          }
+        },
+        {
+          "client_id": "248987402333-2kp6uot48oep10315fmt7f5ndlfttd9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVTS5u9uJH-_Ytb1MgX5Z6SCh0cT5M_Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248987402333-2kp6uot48oep10315fmt7f5ndlfttd9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

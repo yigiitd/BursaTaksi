@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Bursa Taksi</string>
+
+    <string name="no">Hayır</string>
+    <string name="give">Ver</string>
+    <string name="ok">Tamam</string>
+
+    <string name="welcome_text">Selamlar, hoşgeldiniz!</string>
+    <string name="phone_number">telefon numarası</string>
+    <string name="sign_up_text">Kaydol</string>
+    <string name="hello_text">Merhaba,</string>
+
+    <string name="sms_verification">Sms Doğrulama</string>
+    <string name="sms_code">sms kodu</string>
+    <string name="verify_sms_code">Sms kodunu doğrula</string>
+
+    <string name="finally_text">Son Olarak</string>
+    <string name="your_full_name">tam adınız</string>
+    <string name="complete_signing">Giriş Yap</string>
+
+    <string name="destination_text">Nereye gitmek istersiniz?</string>
+    <string name="call_taxi">Taksi Çağır</string>
+
+    <string name="cd_taxi">Taksi Resmi</string>
+    <string name="cd_welcome_character">Hoşgeldin Karakter Resmi</string>
+    <string name="cd_update_location">Konumu güncelleme butonu</string>
+    <string name="cd_show_stations">Durakları gösterme butonu</string>
+    <string name="cd_settings_menu">Ayar menüsü butonu</string>
+    <string name="cd_nav_back">Geri Butonu</string>
+    <string name="cd_main_map_view">Harita</string>
+    <string name="cd_line">Çizgi</string>
+
+    <string name="text_account_settings">Hesap Ayarları</string>
+    <string name="text_options">Seçenekler</string>
+    <string name="text_settings">Ayarlar</string>
+    <string name="text_your_account">Hesabınız</string>
+    <string name="text_destination">Varış yeri</string>
+    <string name="text_taxi_station">Taksi Durağı</string>
+    <string name="text_your_location">Konumunuz</string>
+    <string name="text_location_permission">Konum İzni</string>
+    <string name="text_location_permission_rationale">Uygulamayı kullanmak için konum izni vermeniz gerekiyor</string>
+    <string name="text_login_successfull">Başarıyla giriş yaptınız</string>
+    <string name="text_taxi_call_successfull">Başarıyla taksi çağırdınız</string>
+
+    <string name="error_general">Bir hata oluştu</string>
+    <string name="error_general_2">Bir şeyler ters gitti, lütfen tekrar deneyin</string>
+    <string name="error_signup">Kayıt olurken bir hata oluştu</string>
+    <string name="error_sms_code_is_wrong">Sms kodu yanlış</string>
+    <string name="error_taxi_stations">Taksi durakları alınamadı</string>
+    <string name="error_location">Konum bilgisi alınamadı. Lütfen konumu açın</string>
+    <string name="error_invalid_request">Geçersiz istek</string>
+    <string name="error_too_many_attempts">Çok fazla deneme</string>
+    <string name="error_no_destination">Varış noktası seçilmedi</string>
+    <string name="error_place_info">Varış yeri bilgisi alınamadı</string>
+    <string name="error_taxi_call">Taksi çağırılamadı</string>
+    <string name="error_search_no_result">Aramanıza göre sonuç bulunamadı. Tekrar deneyin</string>
+
+    <string name="warning_phone_number">Lütfen düzgün bir telefon numarası girin</string>
+    <string name="warning_blank_spaces">Lütfen boş alanları doldurun</string>
+    <string name="warning_enter_sms_code">Lütfen bir sms kodu girin</string>
+    <string name="warning_enter_name">Lütfen bir isim girin</string>
+    <string name="warning_select_place">Lütfen varış yeri seçin</string>
+    <string name="warning_access_fine_location_permission">Uygulamayı kullanmak için detaylı konum izni vermeniz gerekiyor</string>
+</resources>

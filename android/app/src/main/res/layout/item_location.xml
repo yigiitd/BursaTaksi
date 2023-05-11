@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="12dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textPrimary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:textSize="18sp"
+        android:maxLines="1"
+        android:fontFamily="@font/poppins_bold"
+        app:drawableStartCompat="@drawable/baselina_location"
+        android:drawablePadding="12dp"
+        tools:text="Primary"
+        app:drawableTint="?attr/colorPrimary" />
+
+    <TextView
+        android:id="@+id/textSecondary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="8dp"
+        android:maxLines="1"
+        android:fontFamily="@font/poppins_regular"
+        tools:text="Secondary" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/ic_line"
+        android:contentDescription="@string/cd_line"/>
+</LinearLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="6dp"
+    android:paddingStart="16dp"
+    android:paddingEnd="12dp"
+    android:paddingBottom="6dp"
+    android:layout_marginBottom="12dp"
+    android:orientation="horizontal"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        tools:src="@drawable/baseline_account"
+        android:src="@drawable/baseline_account"
+        app:tint="?attr/colorPrimary" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_medium"
+        android:textSize="18sp"
+        android:paddingTop="1dp"
+        android:layout_marginStart="12dp"
+        android:gravity="center_vertical"
+        tools:text="Hesabiniz"/>
+</LinearLayout>

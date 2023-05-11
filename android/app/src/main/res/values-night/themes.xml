@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.BursaTaksi" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#5EC5FF</item>
+        <item name="colorPrimaryVariant">#1D96FF</item>
+        <item name="colorOnPrimary">#23353F</item>
+
+        <item name="colorSecondary">@color/dark_gray</item>
+        <item name="colorSecondaryVariant">#23353F</item>
+        <item name="colorOnSecondary">#1D96FF</item>
+
+        <item name="colorSurface">@color/dark_gray</item>
+
+        <item name="android:statusBarColor">#7BCFFF</item>
+
+        <item name="android:windowBackground">@color/dark_gray</item>
+    </style>
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">?attr/colorPrimary</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/taxi_logo</item>
+        <item name="windowSplashScreenIconBackgroundColor">#FFFFFF</item>
+        <item name="postSplashScreenTheme">@style/Theme.BursaTaksi</item>
+    </style>
+</resources>
